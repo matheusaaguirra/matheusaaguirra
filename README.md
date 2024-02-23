@@ -1,8 +1,4 @@
-<div  align="center"> 
-  <div style="display: inline_block">
-    <img align="left" height="250">
-    <h1 align="center">BEM VINDOS(A) PESSOAL 🙃🙃</h1>
-    <br>
+# BEM VINDOS(A) PESSOAL 🙃🙃
 <div>
   
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=matheusaaguirra&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
