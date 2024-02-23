@@ -21,6 +21,5 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     
    </div>
-<br>
-
+   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusaaguirra&bg_color=230449&color=ff0fef&line=9e4c98&point=d91aff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
