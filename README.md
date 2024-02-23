@@ -1,5 +1,5 @@
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     <img align="left" height="250">
     <h1 align="center">BEM VINDOS(A) PESSOAL 🙃🙃</h1>
     <br>
