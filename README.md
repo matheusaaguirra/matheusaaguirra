@@ -1,7 +1,7 @@
 <h1 align="center">BEM VINDOS(A) PESSOAL 🙃🙃</h1>
 <div>
   
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=matheusaaguirra&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=matheusaaguirra&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaaguirra&theme=jolly&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 <br>
