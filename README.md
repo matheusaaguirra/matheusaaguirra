@@ -33,10 +33,10 @@ Hoje, exploro a interseção entre **desenvolvimento web, produtos SaaS, automa�
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h3>💠 <a href="https://github.com/matheusaaguirra/WealthOS">WealthOS</a></h3>
+  <h3>💠 <a href="https://wealthos.com.br">WealthOS</a></h3>
   <p><strong>Finanças pessoais · SaaS</strong></p>
   <p>Aplicação de gestão financeira com contas, lançamentos, investimentos, gráficos e acompanhamento do patrimônio.</p>
-  <a href="https://github.com/matheusaaguirra/WealthOS"><img alt="Ver código do WealthOS" src="https://img.shields.io/badge/VER%20PROJETO-673AB7?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://wealthos.com.br"><img alt="Acessar site do WealthOS" src="https://img.shields.io/badge/ACESSAR%20SITE-673AB7?style=flat-square&logo=googlechrome&logoColor=white"></a>
 </td>
 <td width="50%" valign="top">
   <h3>✳️ <a href="https://zyntracare.com">ZyntraCare</a></h3>
