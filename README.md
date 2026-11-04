@@ -85,16 +85,19 @@ Hoje, exploro a interseção entre **desenvolvimento web, produtos SaaS, automa�
 
 </div>
 
-### 📊 GitHub em números
+### 📊 GitHub & atividade
 
 <div align="center">
 
-<img height="165" alt="Estatísticas públicas do GitHub" src="https://github-readme-stats.vercel.app/api?username=matheusaaguirra&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=CBA6F7&icon_color=B58AE6&text_color=D9D3E3&include_all_commits=true" />
-<img height="165" alt="Linguagens mais utilizadas nos repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaaguirra&layout=compact&hide_border=true&bg_color=0D0B14&title_color=CBA6F7&text_color=D9D3E3&langs_count=7" />
+<a href="https://github.com/matheusaaguirra?tab=repositories">
+  <img src="./assets/github-dashboard.svg" alt="Painel dos projetos e áreas de atuação de Matheus Aguirra" width="100%" />
+</a>
 
-<img width="95%" alt="Gráfico dinâmico de atividade no GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=matheusaaguirra&bg_color=0D0B14&color=CBA6F7&line=9A6AD1&point=FFFFFF&area=true&area_color=55317E&hide_border=true&custom_title=Atividade%20no%20GitHub" />
+<br />
 
-<sub>Os gráficos são gerados por serviços externos e podem ficar temporariamente indisponíveis.</sub>
+[**Explorar repositórios ↗**](https://github.com/matheusaaguirra?tab=repositories) &nbsp; • &nbsp; [**Ver contribuições no GitHub ↗**](https://github.com/matheusaaguirra?tab=overview)
+
+<sub>O painel é um SVG armazenado neste repositório. Os dados de atividade atualizados estão no perfil oficial do GitHub.</sub>
 
 </div>
 
